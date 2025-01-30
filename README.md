@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on:
+  - 🚵‍♀️🧗 [velogrimpe.fr](https://velogrimpe.fr) to bring Florent's ideas to the web.
+  - ⛰️🚶 [les repérage d'albert](https://les-reperages-d-albert.vercel.app) to contemplate 30 years of walking.
+  - ⛷️🎿 [les plagnes](https://les-plagnes.vercel.app) to help people find and reach their ESF meeting point.
+  - ✈️❌ [changer d'approche](https://couble.eu/site/treks) to recall and show how travelling is not about the destination.
+- 🌐 [couble.eu](https://couble.eu)
+
 <!--
 **ycouble/ycouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
