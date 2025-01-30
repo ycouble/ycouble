@@ -1,4 +1,6 @@
-## Yoann
+## Hi there 👋
+
+I'm a french developper in Lyon, passionate about data and maps, loving to bring them online to promote durable outdoors activities.
 
 - 🔭 I’m currently working on:
   - 🚵‍♀️🧗 [velogrimpe.fr](https://velogrimpe.fr) to bring Florent's ideas to the web.
